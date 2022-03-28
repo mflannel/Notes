@@ -19,4 +19,4 @@
 3. You can always delete it if you want:
 <img src="https://user-images.githubusercontent.com/49292756/160467794-bf2a4e86-a762-4951-b030-afb74f4c79b9.png" width=30% height=30%>
 
-And all this data will be stoerd in your phone!
+And all this data will be stoerd in your phone via Core Data.
